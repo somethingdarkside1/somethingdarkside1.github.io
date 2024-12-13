@@ -1,7 +1,6 @@
 #-------------------------------
 # Site Settings
 title: Vitali
-logo: # You can add own logo. For example '/images/logo.png'.
 description: The personal blog of Vitali Liouti
 
 
@@ -31,7 +30,7 @@ author:
 hero:
   title: Vitali Liouti
   description: Thoughts, stories and ideas.
-  image: '/images/01.jpg'
+  image: '/images/back.png'
 
 
 #-------------------------------
