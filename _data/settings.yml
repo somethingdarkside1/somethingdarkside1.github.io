@@ -12,10 +12,10 @@ menu-settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact Me'
-      url: '/contact/'
     - title: 'Style Guide'
       url: '/styleguide/'
+    - title: 'Contact Me'
+      url: '/contact/'
 
 
 #-------------------------------
@@ -44,7 +44,7 @@ contact:
 #-------------------------------
 # Footer section
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "fa-sharp fa-solid fa-cloud-music", name: "Spotify", link: "https://twitter.com"}
 - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
