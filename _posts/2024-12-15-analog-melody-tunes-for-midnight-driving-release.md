@@ -5,6 +5,7 @@ description: My new AI album, Analog Melody - Tunes for Midnight Driving is out!
 date:   2024-12-15
 image:  '/images/wookie1.png'
 tags:   [AI Music, ML Models, Music Album]
+featured: true
 ---
 
 [Analog Melody - Tunes for Midnight Driving](https://ditto.fm/tunes-for-midnight-driving)
