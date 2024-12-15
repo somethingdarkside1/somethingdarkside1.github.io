@@ -1,26 +1,26 @@
 ---
 layout: post
-title:  It is never too late to be what you might have been
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
-date:   2023-04-21 15:01:35 +0300
+title:  Back from the dead
+description: My new AI album, Analog Melody - Tunes for Midnight Driving is out!
+date:   2024-12-15
 image:  '/images/20.jpg'
-tags:   [Lifestyle, Rest, Nature]
+tags:   [AI Music, ML Models, Music Album]
 ---
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias. Si longus, levis ampulla enim sit necne vel omnia vel partes genere plurima et maxima.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
+[Analog Melody - Tunes for Midnight Driving](https://ditto.fm/tunes-for-midnight-driving)
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit potionibus.
+Hey all,
 
-![Fresh vegetables]({{site.baseurl}}/images/615.jpg)
-*Fresh vegetables / [Unsplash](https://unsplash.com/)*
+For anyone wondering where I've been, I have been diving deep into some exciting projects, professionally and personally. With December coming, I finally have some time to relax and share more. And I promise I'll be writing more often about all the cool stuff in store :)
 
-Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis. Put in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere.
+This past year at IMG, I've immersed myself in the world of machine learning, becoming obsessed with neural models, researching them, fine-tuning them, and jailbreaking them - as anyone who has talked with me for at least 5 minutes can attest to.
 
-<p><iframe src="https://www.youtube.com/embed/CB9Enh6yP0w" frameborder="0" allowfullscreen></iframe></p>
+A few years ago, during my last sabbatical at Arm, I poured myself into creating my music album. Twenty intense days, twelve hours composing, writing, mixing, and mastering. The blisters and exhaustion were worth it.
 
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine.
+Now I've merged my two passions – music and AI – by developing a neural model that creates, refines, and mixes music based on my music and style. It's the kind of project that would have blown my younger self's mind, and it's just the beginning of what's to come. Now I can play around with hundreds of tracks, and the only thing stopping me are GPU and API credits. Maybe more VRAM as well.
 
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+Today, I'm proud to present 'Tunes for Midnight Driving' – my first AI-generated synthwave album. Having grown up on a steady diet of 8-bit and demoscene music, this genre felt like the perfect starting point. The songs, cover art, and Spotify canvases are all products of AI, but they've been shaped by my own (musical) creations.
+
+So if you're driving somewhere (or back home), give it a listen and see how far we've come. Hope you enjoy
+
+P.S. What's next? My dog Wookie (below) needs her own single, and I've already got a rapper lined up to help 😆
