@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://v1tali.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
