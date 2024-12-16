@@ -7,7 +7,6 @@ image:  '/images/dos-era.jpg'
 tags:   [technology, history, personal, computing, nostalgia, retro-gaming, gaming, AI, memoir, programming]
 featured: true
 ---
-
 # The DOS Era (Taylor’s Version) 
 
 I was around 6 when my dad gifted me my first PC, the [Schneider Euro AT](https://en.wikipedia.org/wiki/Schneider_Euro_PC). He paid 50,000 drachmas, around ~$400 in today’s money, for the PC and a CRT monitor. My mum didn’t talk to him for 3 months after finding out – it was more money than they both made. I, on the other hand, could not stop using the damn thing. 
@@ -31,6 +30,10 @@ My first creation? An unnamed text adventure about a kid named Vitali lost in a 
 Then Jordan Mechner's Prince of Persia materialized on my screen, shattering my every preconception. It was my personal Plato's cave moment. If my text adventure was shadow puppetry, Prince of Persia was cinema. Mechner had achieved the impossible in 1989 - he made pixels dance. On an Apple II, he created animation so fluid it felt like bottled lightning. 
 
 My GOTO-laden creation suddenly felt like describing ballet through Morse code. The gap between amateur enthusiasm and true mastery yawned like a canyon. I deleted my game and swore off creation for consumption. 
+
+![Prince of Persia](https://preview.redd.it/8f6h4wa42drx.png)
+*VGA vs EGA vs CGA vs CGA-Mono*
+
 
 The '90s hit like a technological tsunami. Windows crashed the DOS party, Sound Blaster cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked Tex Murphy series, and marveled at Peter Molyneux's Bullfrog revolution, from Populous to Magic Carpet. 
 
