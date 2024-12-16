@@ -27,7 +27,7 @@ My first creation? An unnamed text adventure about a kid named Vitali lost in a 
 
 # Code, Pixels, and Promise 
 
-Then Jordan Mechner's Prince of Persia materialized on my screen, shattering my every preconception. It was my personal Plato's cave moment. If my text adventure was shadow puppetry, Prince of Persia was cinema. Mechner had achieved the impossible in 1989 - he made pixels dance. On an Apple II, he created animation so fluid it felt like bottled lightning. 
+Then [Jordan Mechner's Prince of Persia](https://shot97retro.blogspot.com/2019/06/prince-of-persia-in-depth-written-amiga.html) materialized on my screen, shattering my every preconception. It was my personal Plato's cave moment. If my text adventure was shadow puppetry, Prince of Persia was cinema. Mechner had achieved the impossible in 1989 - he made pixels dance. On an Apple II, he created animation so fluid it felt like bottled lightning. 
 
 My GOTO-laden creation suddenly felt like describing ballet through Morse code. The gap between amateur enthusiasm and true mastery yawned like a canyon. I deleted my game and swore off creation for consumption. 
 
@@ -35,9 +35,9 @@ My GOTO-laden creation suddenly felt like describing ballet through Morse code. 
 *VGA vs EGA vs CGA vs CGA-Mono*
 
 
-The '90s hit like a technological tsunami. Windows crashed the DOS party, Sound Blaster cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked Tex Murphy series, and marveled at Peter Molyneux's Bullfrog revolution, from Populous to Magic Carpet. 
+The '90s hit like a technological tsunami. Windows crashed the DOS party, [Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked Tex Murphy series, and marveled at [Peter Molyneux's](https://en.wikipedia.org/wiki/Peter_Molyneux) [Bullfrog](https://en.wikipedia.org/wiki/Bullfrog_Productions) revolution, from [Populous](https://en.wikipedia.org/wiki/Populous_(series)), to [Syndicate](https://en.wikipedia.org/wiki/Syndicate_(series)), to [Magic Carpet I & II](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game)).
 
-These games weren't just entertainment – they were technological catalysts. 3DFX's Voodoo graphics cards, essential for titles like Magic Carpet and Tomb Raider, helped birth modern GPU computing. When 3DFX folded, NVIDIA acquired their innovations. Their rival, ATI Technologies, was eventually acquired by AMD, resulting in the creation of the ‘Radeon’ line of GPUs. Gaming technology always shaped the semiconductor industry's evolution. 
+These games weren't just entertainment – they were technological catalysts. [3DFX's Voodoo](https://en.wikipedia.org/wiki/3dfx) graphics cards, essential for titles like Magic Carpet and Tomb Raider, helped birth modern GPU computing. When 3DFX folded, NVIDIA acquired their innovations. Their rival, ATI Technologies, was eventually acquired by AMD, resulting in the creation of the ‘Radeon’ line of GPUs. Gaming technology always shaped the semiconductor industry's evolution. 
 
 This journey shaped me and my path. Hungry for more technology and needing to fund the appetite, I became a web designer in the pre-framework wild west. It was hard work, often tedious, but it kept me in the game. 
 
