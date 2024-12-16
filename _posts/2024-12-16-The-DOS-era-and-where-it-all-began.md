@@ -60,7 +60,7 @@ So are the dangers around the use of AI/ML justified? Yes. Societies worldwide a
 
 I recently used my Meta Quest to watch videos while I was floating in virtual space during a flight to California, I couldn't help but smile at how far we've come. From my first Schneider with its 16 colors to creating entire theaters in virtual reality – it's the kind of leap that me as a kid, typing GOTO commands in BASIC, couldn't have imagined. Yet that same sense of wonder persists. Whether it's Prince of Persia's fluid animation in 1989 or AI conjuring websites in 2024, technology still feels like magic. 
 
-That same magic that made my father spend a year's savings on a computer drives innovation today. Only now, instead of 16 colors, we're painting with artificial intelligence and virtual reality. And somewhere, a six-year-old is experiencing their own technological awakening, learning about the world or building their own game with help from an AI. 
+That same magic that made my parents spend a year's savings on a computer drives innovation today. Only now, instead of 16 colors, we're painting with artificial intelligence and virtual reality. And somewhere, a six-year-old is experiencing their own technological awakening, learning about the world or building their own game with help from an AI. 
 
 And maybe that's exactly what we need right now – a little bit of magic, a dash of hope, and the endless possibility of the next technological frontier. Thanks mum and dad.
 
