@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The DOS Era and where it all began
+title:  The DOS era and where it all began
 description: A memoir where I trace my first steps with personal computers, from a 4.77MHz Schneider Euro AT in the 1980s to today's AI and VR.
 date:   2024-12-16 03:20
 image:  '/images/dos-era.jpg'
