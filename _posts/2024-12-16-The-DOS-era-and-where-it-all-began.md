@@ -15,7 +15,7 @@ I was around 6 when my parents gifted me my first PC, the [Schneider Euro AT](ht
 
 The Schneider Euro PC represented the vanguard of accessible home computing. It was one of the first IBM-compatible machines with integrated design and MS-DOS support, sporting an [Intel 8088 CPU](https://en.wikipedia.org/wiki/Intel_8088) at 4.77MHz – the same processor that powered the original IBM PC. To put this in perspective, that's about 100,000 times slower than today's average smartphone. Data lived on 5.25" floppy disks, each holding a mere 360KB, less storage than a single smartphone photo today. 
 
-(More on floppy disks on my next article about my “Demoscene Era”, à la Taylor Swift)
+(More on floppy disks on my next article about my “Demoscene Era”, Taylor Swift style)
 
 The AT version marked a quantum leap forward from the original model. Instead of the original's basic CGA with its quirky 4-color palette, the Euro PC AT boasted EGA graphics capable of displaying 16 colors from a palette of 64. In an era where most computers could only display four colors at once, this made games look spectacular – at least through the eyes of a six-year-old. 
 
@@ -34,7 +34,7 @@ As many before me, I cut my gaming teeth on [Zork](https://playclassic.games/gam
 
 My first creation? An unnamed text adventure about a kid named Vitali lost in a maze with a single match. Why one match? Nobody knows. It was way more GOTO spaghetti than clean code, but it represented pure crystallized childhood ambition. 
 
-Then [Jordan Mechner's Prince of Persia](https://shot97retro.blogspot.com/2019/06/prince-of-persia-in-depth-written-amiga.html) materialized on my screen, shattering my every preconception. It was my personal [Plato's cave moment](https://en.wikipedia.org/wiki/Allegory_of_the_cave). If my text adventure was shadow puppetry, Prince of Persia was cinema. Mechner had achieved the impossible in 1989 - he made pixels dance. On an [Apple II](https://en.wikipedia.org/wiki/Apple_II), he created animation so fluid it felt like bottled lightning. I couldn't believe it.
+Then [Jordan Mechner's Prince of Persia](https://shot97retro.blogspot.com/2019/06/prince-of-persia-in-depth-written-amiga.html) materialized on my screen, shattering my every preconception. It was my personal [Plato's cave moment](https://en.wikipedia.org/wiki/Allegory_of_the_cave). If my text adventure was shadow puppetry, Prince of Persia was cinema. Mechner had achieved the impossible in 1989 - he made pixels dance. On an [Apple II](https://en.wikipedia.org/wiki/Apple_II), he created animation so fluid it felt like real life. I couldn't believe it.
 
 My GOTO-laden creation suddenly felt like describing ballet through Morse code. The gap between amateur enthusiasm and true mastery yawned like a canyon. I deleted my game and swore off creation for consumption. 
 
