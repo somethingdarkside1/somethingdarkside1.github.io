@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  The DOS Era: Where it all began (Taylor’s Version) 
-description: A heartfelt memoir tracing the evolution of personal computing, from a 4.77MHz Schneider Euro AT in the 1980s to today's AI and VR landscape. The author shares his experiences with early programming, iconic games like Prince of Persia, and the transformative developments in GPU technology. This nostalgic piece connects the wonder of early computing discoveries with modern technological breakthroughs, offering unique insights into how far we've come and where we're heading.
+description: A heartfelt memoir tracing the evolution of personal computing, from a 4.77MHz Schneider Euro AT in the 1980s to today's AI and VR landscape.
 date:   2024-12-16 15:01:35 +0300
+permalink: /dos-era/
 image:  '/images/dos-era.jpg'
 tags:   [technology, history, personal, computing, nostalgia, retro-gaming, gaming, AI, memoir, programming]
 featured: true
@@ -15,7 +16,7 @@ I was around 6 when my dad gifted me my first PC, the [Schneider Euro AT](https:
 
 The Schneider Euro PC represented the vanguard of accessible home computing. As one of the first IBM-compatible machines with integrated design and MS-DOS support, it ran on an (Intel 8088 CPU([https://en.wikipedia.org/wiki/Intel_8088] at 4.77MHz – the same processor that powered the original IBM PC. To put this in perspective, that's about 100,000 times slower than today's average smartphone. Data lived on 5.25" floppy disks, each holding a mere 360KB, less storage than a single smartphone photo today. 
 
-{: .note (More on floppy disks on my next article about my “Demoscene Era”, à la Taylor Swift }
+(More on floppy disks on my next article about my “Demoscene Era”, à la Taylor Swift)
 
 The AT version marked a quantum leap forward from the original model. Instead of the original's basic CGA with its quirky 4-color palette, the Euro PC AT boasted EGA graphics capable of displaying 16 colors from a palette of 64. In an era where most computers could only display four colors at once, this made games look spectacular – at least through the eyes of a six-year-old. 
 
