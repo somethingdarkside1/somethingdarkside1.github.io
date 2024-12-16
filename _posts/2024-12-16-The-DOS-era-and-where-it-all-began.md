@@ -19,16 +19,12 @@ The Schneider Euro PC represented the vanguard of accessible home computing. As 
 
 The AT version marked a quantum leap forward from the original model. Instead of the original's basic CGA with its quirky 4-color palette, the Euro PC AT boasted EGA graphics capable of displaying 16 colors from a palette of 64. In an era where most computers could only display four colors at once, this made games look spectacular – at least through the eyes of a six-year-old. 
 
-monkey-island-floppy-disks
-![Retro Games](/images/retro-games-1.webp)
-*Retro games of the period*
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/retro-games-1.webp">
     <img src="/images/retro-games-2.webp">
   </div>
-  <em>Retro games of the period</em>
+  <em>Retro games of the period [[Reddit]](https://www.reddit.com/r/dosgaming/comments/1506871/early_vs_late_gen_dos_games_cga_ega/)</em>
 </div>
 
 
@@ -47,17 +43,21 @@ My GOTO-laden creation suddenly felt like describing ballet through Morse code. 
 ![Prince of Persia](/images/prince1.webp)
 *Prince of Persia*
 *VGA vs EGA vs CGA vs CGA-Mono*
+*[Reddit](https://www.reddit.com/r/dosgaming/comments/57egq3/prince_of_persia_vgaegacgacgamono/)
 
 
 The '90s hit like a technological tsunami. Windows crashed the DOS party, [Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked Tex Murphy series, and marveled at [Peter Molyneux's](https://en.wikipedia.org/wiki/Peter_Molyneux) [Bullfrog](https://en.wikipedia.org/wiki/Bullfrog_Productions) revolution, from [Populous](https://en.wikipedia.org/wiki/Populous_(series)), to [Syndicate](https://en.wikipedia.org/wiki/Syndicate_(series)), to [Magic Carpet I & II](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game)).
 
-These games weren't just entertainment – they were technological catalysts. [3DFX's Voodoo](https://en.wikipedia.org/wiki/3dfx) graphics cards, essential for titles like Magic Carpet and Tomb Raider, helped birth modern GPU computing. When 3DFX folded, NVIDIA acquired their innovations. Their rival, ATI Technologies, was eventually acquired by AMD, resulting in the creation of the ‘Radeon’ line of GPUs. Gaming technology always shaped the semiconductor industry's evolution. 
+![Prince of Persia](/images/monkey-island-floppy-disks.jpeg)
+*A lot of floppy disks*
+
+These games weren't just entertainment – they were technological catalysts. [3DFX's Voodoo](https://en.wikipedia.org/wiki/3dfx) graphics cards, essential for titles like Magic Carpet and Tomb Raider, helped birth modern GPU computing. When 3DFX folded, NVIDIA acquired their innovations. Their rival, [ATI Technologies](https://en.wikipedia.org/wiki/ATI_Technologies), was [eventually acquired by AMD](https://www.anandtech.com/show/2055), [resulting in the creation of the ‘Radeon’ line of GPUs](https://www.techspot.com/article/2689-ati-technologies-history/). Gaming technology always shaped the semiconductor industry's evolution. 
 
 This journey shaped me and my path. Hungry for more technology and needing to fund the appetite, I became a web designer in the pre-framework wild west. It was hard work, often tedious, but it kept me in the game. 
 
 # Full Circle: Pixels to Neural Networks 
 
-These days, I find myself reflecting on how different my life journey might have been with access to tools like ChatGPT and Claude. Recently, while creating the website for my AI music label, I witnessed Claude code an entire website in less than a minute – accomplishing in seconds what would have taken weeks in my early career. In just five prompts, it crafted both functional and aesthetically pleasing code, complete with CSS and JavaScript. The experience felt like watching Prince of Persia for the first time again – that same sense of witnessing something revolutionary. You can visit the site here and download the free template on Github. 
+These days, I find myself reflecting on how different my life journey might have been with access to tools like ChatGPT and Claude. Recently, while creating the website for my AI music label, I witnessed Claude code an entire website in mere minutes – accomplishing in seconds what would have taken weeks in my early career. In just five prompts, it crafted both functional and aesthetically pleasing code, complete with CSS and JavaScript. The experience felt like watching Prince of Persia for the first time again – that same sense of witnessing something revolutionary. You can check the [Midnight Nexus Records site](https://midnightnexusrecords.com/) for the cool animation that Claude created and [download the template on Github](https://github.com/somethingdarkside1/MNR-template).
 
 So are the dangers around the use of AI/ML justified? Yes. Societies worldwide are still grappling with comprehending and managing this technology's impact. Yet the fundamental human experience remains unchanged: each new technological wave brings both opportunity and challenge, inspiration and intimidation. This one feels as powerful as the steam engine. 
 
