@@ -53,8 +53,6 @@ These games weren't just entertainment – they were technological catalysts. [3
 
 This journey shaped me and my path. Hungry for more technology and needing to fund the appetite, I became a web designer in the pre-framework wild west. It was hard work, often tedious, but it kept me in the game. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ozxnrs0BP4?si=dDmDniESLypBvwRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # Full Circle: Pixels to Neural Networks 
 
 These days, I find myself reflecting on how different my life journey might have been with access to tools like ChatGPT and Claude. Recently, while creating the website for my AI music label, I witnessed Claude code an entire website in mere minutes – accomplishing in seconds what would have taken weeks in my early career. In just five prompts, it crafted both functional and aesthetically pleasing code, complete with CSS and JavaScript. The experience felt like watching Prince of Persia for the first time again – that same sense of witnessing something revolutionary. You can check the [Midnight Nexus Records site](https://midnightnexusrecords.com/) for the cool animation that Claude created and [download the template on Github](https://github.com/somethingdarkside1/MNR-template).
@@ -68,3 +66,6 @@ That same magic that made my father spend a year's savings on a computer drives 
 And maybe that's exactly what we need right now – a little bit of magic, a dash of hope, and the endless possibility of the next technological frontier. Thank you dad. 
 
 Vitali 
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ozxnrs0BP4?si=dDmDniESLypBvwRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
