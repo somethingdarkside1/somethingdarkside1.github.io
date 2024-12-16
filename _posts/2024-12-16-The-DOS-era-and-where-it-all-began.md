@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  The DOS Era: Where it all began (Taylor’s Version) 
+title:  The DOS Era and where it all began
 description: A heartfelt memoir tracing the evolution of personal computing, from a 4.77MHz Schneider Euro AT in the 1980s to today's AI and VR landscape.
-date:   2024-12-16 15:01:35 +0300
-permalink: /dos-era/
+date:   2024-12-16 03:20
 image:  '/images/dos-era.jpg'
 tags:   [technology, history, personal, computing, nostalgia, retro-gaming, gaming, AI, memoir, programming]
 featured: true
