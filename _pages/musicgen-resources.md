@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music Generation Resources
-permalink: /musicgen-resources/
+permalink: /musicgen/
 image: '/images/musicgen.jpg'
 ---
 
@@ -18,11 +18,18 @@ image: '/images/musicgen.jpg'
 7. [Multi-Track MusicLDM: Towards Versatile Music Generation with Latent Diffusion Model](https://arxiv.org/abs/2409.02845)
 8. [Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning](https://huggingface.co/papers/2407.16564)
 9. [Simple and Controllable Music Generation](https://arxiv.org/pdf/2306.05284)
-10.[Improving Controllability and Editability for Pretrained Text-to-Music Generation Models](https://www.eecs.qmul.ac.uk/~simond/phd/YixiaoZhang-PhD-Thesis.pdf)
+10. [WaveGlow: A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/abs/1811.00002)
+11. [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646)
+12. [Improving Controllability and Editability for Pretrained Text-to-Music Generation Models](https://www.eecs.qmul.ac.uk/~simond/phd/YixiaoZhang-PhD-Thesis.pdf)
 
 
 ## Projects
 1. [OpenAI Whisper](https://github.com/openai/whisper)
+2. [Waveglow](https://pytorch.org/hub/nvidia_deeplearningexamples_waveglow/))
+3. [MusicLM](https://github.com/lucidrains/musiclm-pytorch)
+4. [Riffusion](https://github.com/riffusion/riffusion-hobby)
+5. [Magenta](https://magenta.github.io/magenta-js/music/index.html)
+6. [Audiocraft](https://github.com/facebookresearch/audiocraft)
 
 
 ## Other Tools

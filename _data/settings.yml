@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Vitali
-description: The personal blog of Vitali Liouti
+title: V1TALI - The personal blog of Vitali Liouti and his AI Music
+description: The personal blog of Vitali Liouti, Midnight Nexus Records, and Analog Melody.
 
 
 #-------------------------------
@@ -44,13 +44,13 @@ contact:
 #-------------------------------
 # Footer section
 social:
-- {icon: "fa-sharp fa-solid fa-cloud-music", name: "Spotify", link: "https://open.spotify.com/artist/3WQf7lSbhrJsum3FHTkdC4?si=c795676c99bb47ce"}
+- {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://open.spotify.com/artist/3WQf7lSbhrJsum3FHTkdC4?si=c795676c99bb47ce"}
+- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://www.youtube.com/watch?v=RUKfJ3gBNDI"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/somethingdarkside1/MNR-template"}
 #- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
 #- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 #- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
 #- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://www.youtube.com/watch?v=RUKfJ3gBNDI"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/somethingdarkside1/MNR-template"}
 #- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/"}
