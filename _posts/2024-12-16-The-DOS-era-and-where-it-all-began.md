@@ -34,6 +34,7 @@ Then [Jordan Mechner's Prince of Persia](https://shot97retro.blogspot.com/2019/0
 My GOTO-laden creation suddenly felt like describing ballet through Morse code. The gap between amateur enthusiasm and true mastery yawned like a canyon. I deleted my game and swore off creation for consumption. 
 
 ![Prince of Persia](/images/prince1.webp)
+*Prince of Persia*
 *VGA vs EGA vs CGA vs CGA-Mono*
 
 
