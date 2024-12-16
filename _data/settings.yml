@@ -12,8 +12,10 @@ menu-settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Style Guide'
-      url: '/styleguide/'
+    - title: 'Spotify Playlists'
+      url: '/spotify-playlists/'
+    - title: 'MusicGen Resources'
+      url: '/musicgen/'
     - title: 'Contact Me'
       url: '/contact/'
 
@@ -22,7 +24,7 @@ menu-settings:
 # Author Settings
 author:
   name: Vitali Liouti
-  avatar: '/images/15.jpg'
+  avatar: '/images/vitali.jpg'
 
 
 #-------------------------------
