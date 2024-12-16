@@ -19,6 +19,17 @@ The Schneider Euro PC represented the vanguard of accessible home computing. As 
 
 The AT version marked a quantum leap forward from the original model. Instead of the original's basic CGA with its quirky 4-color palette, the Euro PC AT boasted EGA graphics capable of displaying 16 colors from a palette of 64. In an era where most computers could only display four colors at once, this made games look spectacular – at least through the eyes of a six-year-old. 
 
+monkey-island-floppy-disks
+![Retro Games](/images/retro-games-1.webp)
+*Retro games of the period*
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/retro-games-1.webp">
+    <img src="/images/retro-games-2.webp">
+  </div>
+  <em>Retro games of the period</em>
+</div>
 
 
 # Learning to speak BASIC 
