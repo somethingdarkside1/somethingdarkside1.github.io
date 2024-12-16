@@ -43,7 +43,7 @@ My GOTO-laden creation suddenly felt like describing ballet through Morse code. 
 ![Prince of Persia](/images/prince1.webp)
 *Prince of Persia*
 *VGA vs EGA vs CGA vs CGA-Mono*
-[Reddit](https://www.reddit.com/r/dosgaming/comments/57egq3/prince_of_persia_vgaegacgacgamono/)
+* [Reddit](https://www.reddit.com/r/dosgaming/comments/57egq3/prince_of_persia_vgaegacgacgamono/)
 
 
 The '90s hit like a technological tsunami. Windows crashed the DOS party, [Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked Tex Murphy series, and marveled at [Peter Molyneux's](https://en.wikipedia.org/wiki/Peter_Molyneux) [Bullfrog](https://en.wikipedia.org/wiki/Bullfrog_Productions) revolution, from [Populous](https://en.wikipedia.org/wiki/Populous_(series)), to [Syndicate](https://en.wikipedia.org/wiki/Syndicate_(series)), to [Magic Carpet I & II](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game)).
@@ -63,7 +63,7 @@ These days, I find myself reflecting on how different my life journey might have
 
 So are the dangers around the use of AI/ML justified? Yes. Societies worldwide are still grappling with comprehending and managing this technology's impact. Yet the fundamental human experience remains unchanged: each new technological wave brings both opportunity and challenge, inspiration and intimidation. This one feels as powerful as the steam engine. 
 
-I recently used my Meta Quest to watch videos while I was floating in virtual space during a flight to California, I couldn't help but smile at how far we've come. From my first Schneider with its 16 colors to creating entire theaters in virtual reality – it's the kind of leap that my six-year-old self, typing GOTO commands in BASIC, couldn't have imagined. Yet that same sense of wonder persists. Whether it's Prince of Persia's fluid animation in 1989 or AI conjuring websites in 2024, technology still feels like magic. 
+I recently used my Meta Quest to watch videos while I was floating in virtual space during a flight to California, I couldn't help but smile at how far we've come. From my first Schneider with its 16 colors to creating entire theaters in virtual reality – it's the kind of leap that me as a kid, typing GOTO commands in BASIC, couldn't have imagined. Yet that same sense of wonder persists. Whether it's Prince of Persia's fluid animation in 1989 or AI conjuring websites in 2024, technology still feels like magic. 
 
 That same magic that made my father spend a year's savings on a computer drives innovation today. Only now, instead of 16 colors, we're painting with artificial intelligence and virtual reality. And somewhere, a six-year-old is experiencing their own technological awakening, learning about the world or building their own game with help from an AI. 
 
