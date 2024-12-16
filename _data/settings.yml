@@ -10,13 +10,11 @@ menu-settings:
   menu-items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
     - title: 'Spotify Playlists'
       url: '/spotify-playlists/'
     - title: 'MusicGen Resources'
       url: '/musicgen/'
-    - title: 'Contact Me'
+    - title: 'Contact'
       url: '/contact/'
 
 
@@ -31,7 +29,7 @@ author:
 # Hero Settings
 hero:
   title: Vitali Liouti
-  description: Thoughts, stories and ideas.
+  description: Notes on the art of thinking
   image: '/images/image.webp'
 
 
@@ -46,12 +44,12 @@ contact:
 #-------------------------------
 # Footer section
 social:
-- {icon: "fa-sharp fa-solid fa-cloud-music", name: "Spotify", link: "https://twitter.com"}
+- {icon: "fa-sharp fa-solid fa-cloud-music", name: "Spotify", link: "https://open.spotify.com/artist/3WQf7lSbhrJsum3FHTkdC4?si=c795676c99bb47ce"}
 #- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
 #- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 #- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
 #- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}
+- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://www.youtube.com/watch?v=RUKfJ3gBNDI"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/somethingdarkside1/MNR-template"}
 #- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
 
@@ -72,5 +70,5 @@ google-analytics: G-L0E9NGKSB7
 #-------------------------------
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp-identifier: # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+mailchimp-identifier: https://v1tali.us8.list-manage.com/subscribe/post?u=83dc33980b4ec9868ca1f8c28&amp;id=436a385755&amp;f_id=004212e1f0 # Add your MailChimp form identifier. For example - mail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
 mailchimp-button-text: Join
