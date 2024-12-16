@@ -43,7 +43,7 @@ My GOTO-laden creation suddenly felt like describing ballet through Morse code. 
 
 
 
-The '90s hit like a technological tsunami. Windows crashed the DOS party, [Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked Tex Murphy series, and marveled at [Peter Molyneux's](https://en.wikipedia.org/wiki/Peter_Molyneux) [Bullfrog](https://en.wikipedia.org/wiki/Bullfrog_Productions) revolution, from [Populous](https://en.wikipedia.org/wiki/Populous_(series)), to [Syndicate](https://en.wikipedia.org/wiki/Syndicate_(series)), to [Magic Carpet I & II](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game)).
+The '90s hit like a technological tsunami. Windows crashed the DOS party, [Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked [Tex Murphy series](https://en.wikipedia.org/wiki/Tex_Murphy), and marveled at [Peter Molyneux's](https://en.wikipedia.org/wiki/Peter_Molyneux) [Bullfrog](https://en.wikipedia.org/wiki/Bullfrog_Productions) revolution, from [Populous](https://en.wikipedia.org/wiki/Populous_(series)), to [Syndicate](https://en.wikipedia.org/wiki/Syndicate_(series)), to [Magic Carpet I & II](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game)).
 
 ![Monkey Island Floppy Disks](/images/monkey-island-floppy-disks.jpeg)
 *A lot of floppy disks*
