@@ -24,7 +24,7 @@ The AT version marked a quantum leap forward from the original model. Instead of
     <img src="/images/retro-games-1.webp">
     <img src="/images/retro-games-2.webp">
   </div>
-  <em>Retro games of the period [[Reddit]](https://www.reddit.com/r/dosgaming/comments/1506871/early_vs_late_gen_dos_games_cga_ega/)</em>
+  <em>Retro games of the period [[Reddit](https://www.reddit.com/r/dosgaming/comments/1506871/early_vs_late_gen_dos_games_cga_ega)</em>
 </div>
 
 
@@ -41,9 +41,7 @@ Then [Jordan Mechner's Prince of Persia](https://shot97retro.blogspot.com/2019/0
 My GOTO-laden creation suddenly felt like describing ballet through Morse code. The gap between amateur enthusiasm and true mastery yawned like a canyon. I deleted my game and swore off creation for consumption. 
 
 ![Prince of Persia](/images/prince1.webp)
-*Prince of Persia*
-*VGA vs EGA vs CGA vs CGA-Mono*
-* [Reddit](https://www.reddit.com/r/dosgaming/comments/57egq3/prince_of_persia_vgaegacgacgamono/)
+*Prince of Persia, *VGA vs EGA vs CGA vs CGA-Mono, [Reddit](https://www.reddit.com/r/dosgaming/comments/57egq3/prince_of_persia_vgaegacgacgamono/)*
 
 
 The '90s hit like a technological tsunami. Windows crashed the DOS party, [Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked Tex Murphy series, and marveled at [Peter Molyneux's](https://en.wikipedia.org/wiki/Peter_Molyneux) [Bullfrog](https://en.wikipedia.org/wiki/Bullfrog_Productions) revolution, from [Populous](https://en.wikipedia.org/wiki/Populous_(series)), to [Syndicate](https://en.wikipedia.org/wiki/Syndicate_(series)), to [Magic Carpet I & II](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game)).
@@ -55,7 +53,7 @@ These games weren't just entertainment – they were technological catalysts. [3
 
 This journey shaped me and my path. Hungry for more technology and needing to fund the appetite, I became a web designer in the pre-framework wild west. It was hard work, often tedious, but it kept me in the game. 
 
-<p><iframe src="https://www.youtube.com/watch?v=6ozxnrs0BP4" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ozxnrs0BP4?si=dDmDniESLypBvwRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Full Circle: Pixels to Neural Networks 
 
