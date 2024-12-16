@@ -13,7 +13,7 @@ I was around 6 when my dad gifted me my first PC, the [Schneider Euro AT](https:
 
 # The 4.77MHz Awakening 
 
-The Schneider Euro PC represented the vanguard of accessible home computing. As one of the first IBM-compatible machines with integrated design and MS-DOS support, it ran on an [Intel 8088 CPU](https://en.wikipedia.org/wiki/Intel_8088) at 4.77MHz – the same processor that powered the original IBM PC. To put this in perspective, that's about 100,000 times slower than today's average smartphone. Data lived on 5.25" floppy disks, each holding a mere 360KB, less storage than a single smartphone photo today. 
+The Schneider Euro PC represented the vanguard of accessible home computing. It was one of the first IBM-compatible machines with integrated design and MS-DOS support, sporting an [Intel 8088 CPU](https://en.wikipedia.org/wiki/Intel_8088) at 4.77MHz – the same processor that powered the original IBM PC. To put this in perspective, that's about 100,000 times slower than today's average smartphone. Data lived on 5.25" floppy disks, each holding a mere 360KB, less storage than a single smartphone photo today. 
 
 (More on floppy disks on my next article about my “Demoscene Era”, à la Taylor Swift)
 
