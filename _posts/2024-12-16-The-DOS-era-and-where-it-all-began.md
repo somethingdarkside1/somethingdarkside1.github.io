@@ -34,7 +34,7 @@ As many before me, I cut my gaming teeth on [Zork](https://playclassic.games/gam
 
 My first creation? An unnamed text adventure about a kid named Vitali lost in a maze with a single match. Why one match? Nobody knows. It was way more GOTO spaghetti than clean code, but it represented pure crystallized childhood ambition. 
 
-Then [Jordan Mechner's Prince of Persia](https://shot97retro.blogspot.com/2019/06/prince-of-persia-in-depth-written-amiga.html) materialized on my screen, shattering my every preconception. It was my personal [Plato's cave moment](https://en.wikipedia.org/wiki/Allegory_of_the_cave). If my text adventure was shadow puppetry, Prince of Persia was cinema. Mechner had achieved the impossible in 1989 - he made pixels dance. On an Apple II, he created animation so fluid it felt like bottled lightning. I couldn't believe it.
+Then [Jordan Mechner's Prince of Persia](https://shot97retro.blogspot.com/2019/06/prince-of-persia-in-depth-written-amiga.html) materialized on my screen, shattering my every preconception. It was my personal [Plato's cave moment](https://en.wikipedia.org/wiki/Allegory_of_the_cave). If my text adventure was shadow puppetry, Prince of Persia was cinema. Mechner had achieved the impossible in 1989 - he made pixels dance. On an [Apple II](https://en.wikipedia.org/wiki/Apple_II), he created animation so fluid it felt like bottled lightning. I couldn't believe it.
 
 My GOTO-laden creation suddenly felt like describing ballet through Morse code. The gap between amateur enthusiasm and true mastery yawned like a canyon. I deleted my game and swore off creation for consumption. 
 
