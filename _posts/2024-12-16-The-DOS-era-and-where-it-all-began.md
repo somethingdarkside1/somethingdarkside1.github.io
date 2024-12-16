@@ -24,7 +24,7 @@ The AT version marked a quantum leap forward from the original model. Instead of
     <img src="/images/retro-games-1.webp">
     <img src="/images/retro-games-2.webp">
   </div>
-  <em>Retro games of the period [[Reddit](https://www.reddit.com/r/dosgaming/comments/1506871/early_vs_late_gen_dos_games_cga_ega)</em>
+  <em>Retro games of the period [Reddit](https://www.reddit.com/r/dosgaming/comments/1506871/early_vs_late_gen_dos_games_cga_ega)</em>
 </div>
 
 
