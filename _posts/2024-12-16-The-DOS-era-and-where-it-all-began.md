@@ -7,11 +7,11 @@ image:  '/images/dos-era.jpg'
 tags:   [computing history, PC, retro-gaming, AI, programming, personal]
 featured: true
 ---
-# The DOS Era (Taylor’s Version) 
+## The DOS Era (Taylor’s Version) 
 
 I was around 6 when my dad gifted me my first PC, the [Schneider Euro AT](https://en.wikipedia.org/wiki/Schneider_Euro_PC). He paid 50,000 drachmas, around ~$400 in today’s money, for the PC and a CRT monitor. My mother's silent treatment towards him lasted for a while once she found out about the cost. I, however, couldn't tear myself away from the machine that would shape my entire future. I, however, couldn't tear myself away from the machine that would shape my entire life.
 
-# The 4.77MHz Awakening 
+## The 4.77MHz Awakening 
 
 The Schneider Euro PC represented the vanguard of accessible home computing. It was one of the first IBM-compatible machines with integrated design and MS-DOS support, sporting an [Intel 8088 CPU](https://en.wikipedia.org/wiki/Intel_8088) at 4.77MHz – the same processor that powered the original IBM PC. To put this in perspective, that's about 100,000 times slower than today's average smartphone. Data lived on 5.25" floppy disks, each holding a mere 360KB, less storage than a single smartphone photo today. 
 
@@ -28,7 +28,7 @@ The AT version marked a quantum leap forward from the original model. Instead of
 </div>
 
 
-# Code, Pixels, and Promise 
+## Code, Pixels, and Promise 
 
 As many before me, I cut my gaming teeth on [Zork](https://playclassic.games/games/adventure-dos-games-online/play-zork-great-underground-empire-online/). Never finished it, but it sparked something bigger: the urge to create. Armed with an 'Introduction to BASIC' book my dad gave me, I learned programming before multiplication tables, all to build my dream game. 
 
@@ -52,7 +52,7 @@ These games weren't just entertainment – they were technological catalysts. [3
 
 This journey shaped me and my path. Hungry for more technology and needing to fund the appetite, I became a web designer in the pre-framework wild west. It was hard work, often tedious, but it kept me in the game. And then it became easier, as Wordpress and Joomla appeared and took *all* of the share. And then templates started appearing left and right, making the job less profitable, but much faster.
 
-# Full Circle: Pixels to Neural Networks 
+## Full Circle: Pixels to Neural Networks 
 
 These days, I find myself reflecting on how different my life journey might have been with access to tools like ChatGPT and Claude. Recently, while creating the website for my AI music label, I witnessed Claude code an entire website in mere minutes – accomplishing in seconds what would have taken weeks in my early career. In just five prompts, it crafted both functional and aesthetically pleasing code, complete with CSS and JavaScript. The experience felt like watching Prince of Persia for the first time again – that same sense of witnessing something revolutionary. You can check the [Midnight Nexus Records site](https://midnightnexusrecords.com/) for the cool animation that Claude created and [download the template on Github](https://github.com/somethingdarkside1/MNR-template).
 
