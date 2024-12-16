@@ -9,7 +9,7 @@ featured: true
 ---
 ## The DOS Era (Taylor’s Version) 
 
-I was around 6 when my parents gifted me my first PC, the [Schneider Euro AT](https://en.wikipedia.org/wiki/Schneider_Euro_PC). They paid 50,000 drachmas, around ~$400 in today’s money, for the PC and a CRT monitor. I don't remember a lot from those years, but I remember not being able to tear myself away from the machine that would shape my entire life.
+I was around 6 when my parents gifted me my first PC, the [Schneider Euro AT](https://en.wikipedia.org/wiki/Schneider_Euro_PC). They paid 50,000 drachmas, around ~$400 in today’s money, for the PC and a CRT monitor. I was lost in its electronic glow (likely radiation emitted by the CRT monitor) and my  fingers could not stop exploring a machine that would end up charting the course of my entire life.
 
 ## The 4.77MHz Awakening 
 
