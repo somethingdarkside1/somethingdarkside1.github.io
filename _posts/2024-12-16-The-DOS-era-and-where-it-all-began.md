@@ -43,17 +43,19 @@ My GOTO-laden creation suddenly felt like describing ballet through Morse code. 
 ![Prince of Persia](/images/prince1.webp)
 *Prince of Persia*
 *VGA vs EGA vs CGA vs CGA-Mono*
-*[Reddit](https://www.reddit.com/r/dosgaming/comments/57egq3/prince_of_persia_vgaegacgacgamono/)
+[Reddit](https://www.reddit.com/r/dosgaming/comments/57egq3/prince_of_persia_vgaegacgacgamono/)
 
 
 The '90s hit like a technological tsunami. Windows crashed the DOS party, [Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) cards gave machines their voice, VGA graphics exploded into 256 colors, and hard drives finally killed the floppy disk shuffle. I dived deep into LucasArts' masterpieces (Monkey Island 2's epic 11-disk saga), lost myself in Chris Jones' noir-soaked Tex Murphy series, and marveled at [Peter Molyneux's](https://en.wikipedia.org/wiki/Peter_Molyneux) [Bullfrog](https://en.wikipedia.org/wiki/Bullfrog_Productions) revolution, from [Populous](https://en.wikipedia.org/wiki/Populous_(series)), to [Syndicate](https://en.wikipedia.org/wiki/Syndicate_(series)), to [Magic Carpet I & II](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game)).
 
-![Prince of Persia](/images/monkey-island-floppy-disks.jpeg)
+![Monkey Island Floppy Disks](/images/monkey-island-floppy-disks.jpeg)
 *A lot of floppy disks*
 
 These games weren't just entertainment – they were technological catalysts. [3DFX's Voodoo](https://en.wikipedia.org/wiki/3dfx) graphics cards, essential for titles like Magic Carpet and Tomb Raider, helped birth modern GPU computing. When 3DFX folded, NVIDIA acquired their innovations. Their rival, [ATI Technologies](https://en.wikipedia.org/wiki/ATI_Technologies), was [eventually acquired by AMD](https://www.anandtech.com/show/2055), [resulting in the creation of the ‘Radeon’ line of GPUs](https://www.techspot.com/article/2689-ati-technologies-history/). Gaming technology always shaped the semiconductor industry's evolution. 
 
 This journey shaped me and my path. Hungry for more technology and needing to fund the appetite, I became a web designer in the pre-framework wild west. It was hard work, often tedious, but it kept me in the game. 
+
+<p><iframe src="https://www.youtube.com/watch?v=6ozxnrs0BP4" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 # Full Circle: Pixels to Neural Networks 
 
