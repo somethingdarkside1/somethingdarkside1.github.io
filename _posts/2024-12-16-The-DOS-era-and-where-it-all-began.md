@@ -9,7 +9,7 @@ featured: true
 ---
 ## The DOS Era (Taylor’s Version) 
 
-I was around 6 when my dad gifted me my first PC, the [Schneider Euro AT](https://en.wikipedia.org/wiki/Schneider_Euro_PC). He paid 50,000 drachmas, around ~$400 in today’s money, for the PC and a CRT monitor. My mother's silent treatment towards him lasted for a while once she found out about the cost. I, however, couldn't tear myself away from the machine that would shape my entire future. I, however, couldn't tear myself away from the machine that would shape my entire life.
+I was around 6 when my parents gifted me my first PC, the [Schneider Euro AT](https://en.wikipedia.org/wiki/Schneider_Euro_PC). They paid 50,000 drachmas, around ~$400 in today’s money, for the PC and a CRT monitor. I don't remember a lot from those years, but I remember not being able to tear myself away from the machine that would shape my entire life.
 
 ## The 4.77MHz Awakening 
 
@@ -62,7 +62,7 @@ I recently used my Meta Quest to watch videos while I was floating in virtual sp
 
 That same magic that made my father spend a year's savings on a computer drives innovation today. Only now, instead of 16 colors, we're painting with artificial intelligence and virtual reality. And somewhere, a six-year-old is experiencing their own technological awakening, learning about the world or building their own game with help from an AI. 
 
-And maybe that's exactly what we need right now – a little bit of magic, a dash of hope, and the endless possibility of the next technological frontier. Thank you dad - and thank you mum for not killing him.
+And maybe that's exactly what we need right now – a little bit of magic, a dash of hope, and the endless possibility of the next technological frontier. Thanks mum and dad.
 
 Vitali
 
