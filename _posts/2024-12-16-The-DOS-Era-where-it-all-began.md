@@ -2,7 +2,7 @@
 layout: post
 title:  The DOS Era: Where it all began (Taylor’s Version) 
 description: A heartfelt memoir tracing the evolution of personal computing, from a 4.77MHz Schneider Euro AT in the 1980s to today's AI and VR landscape. The author shares his experiences with early programming, iconic games like Prince of Persia, and the transformative developments in GPU technology. This nostalgic piece connects the wonder of early computing discoveries with modern technological breakthroughs, offering unique insights into how far we've come and where we're heading.
-date:   2024-12-16
+date:   2024-12-16 15:01:35 +0300
 image:  '/images/dos-era.jpg'
 tags:   [technology, history, personal, computing, nostalgia, retro-gaming, gaming, AI, memoir, programming]
 featured: true
