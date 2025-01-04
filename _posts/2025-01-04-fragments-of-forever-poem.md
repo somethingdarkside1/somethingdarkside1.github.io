@@ -2,7 +2,7 @@
 layout: post
 title:  Fragments of Forever
 description: Fragments of Forever poem, part of the SIGNALS+ECHOES album by Vitali Liouti
-date:   2025-12-16 03:20
+date:   2025-12-15 16:00
 image:  '/images/fragments-of-forever.jpg'
 tags:   [personal, W∆VE, ECHØ, music, poetry, SIGNALS+ECHOES]
 featured: false
