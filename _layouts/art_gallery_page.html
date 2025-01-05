@@ -1,11 +1,18 @@
----
-layout: page
-# individual pages for each gallery
-header:
-    title: Some Title
-    background-color: "#6B8A78"
----
-<div>
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+  {% if site.data.settings.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
+  {% include header.html %}
+
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+    <div>
       	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
 		{% for image in page.images %}
         <li><a href="{{ image }}">
@@ -16,8 +23,15 @@ header:
             {% endif %}
         </a></li>
 		{% endfor %}
-	</ul>
-	<div id="spinner"></div>
-</div>
+		</ul>
+		<div id="spinner"></div>
+	</div>
+  </main>
+  <!-- end content -->
 
-{{ page.description }}
+  <div class="top" title="Top"><i class="fa-solid fa-chevron-up"></i></div>
+  {% include footer.html %}
+  {% include javascripts.html %}
+</body>
+
+</html>

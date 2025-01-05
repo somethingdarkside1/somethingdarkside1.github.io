@@ -1,17 +1,35 @@
----
-layout: page
-# This page is used for the main index of galleries
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div>
-	<ul class="small-block-grid-4">
-        {% for gallery in page.galleries %}
-        <li>
-        <a href="{{ gallery['link'] }}">
-            <img class="gallery-best-image" src="{{ gallery['link'] }}/thumbs/front_{{ gallery['best_image'] }}">
-        </a>
-        <h3><a href="{{ gallery['link'] }}">{{ gallery["title"] }}</a></h3>
-        </li>
-        {% endfor %}
-	</ul>
-</div>
+{% include head.html %}
+
+<body>
+  {% if site.data.settings.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
+  {% include header.html %}
+
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+	<div>
+		<ul class="small-block-grid-4">
+			{% for gallery in page.galleries %}
+			<li>
+			<a href="{{ gallery['link'] }}">
+				<img class="gallery-best-image" src="{{ gallery['link'] }}/thumbs/front_{{ gallery['best_image'] }}">
+			</a>
+			<h3><a href="{{ gallery['link'] }}">{{ gallery["title"] }}</a></h3>
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+  </main>
+  <!-- end content -->
+
+  <div class="top" title="Top"><i class="fa-solid fa-chevron-up"></i></div>
+  {% include footer.html %}
+  {% include javascripts.html %}
+</body>
+
+</html>
