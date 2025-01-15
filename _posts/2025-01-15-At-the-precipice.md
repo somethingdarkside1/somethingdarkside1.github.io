@@ -7,7 +7,7 @@ tags:   [Climate Change, Personal]
 featured: true
 ---
 
-When I was a kid, my favorite TV show was Star Trek. In contrast to most sci-if series, Gene Roddenberry presented humanity as optimistic and enlightened, moving beyond its violent conflicts and prejudices to become explorers and peacekeepers of the galaxy. It was a personal inspiration of how I wanted to be in real life. But I always wondered if humanity had to go through hardships to become better than it was.  
+When I was a kid, my favorite TV show was Star Trek. In contrast to most sci-if series, Gene Roddenberry presented humanity as optimistic and enlightened, moving beyond its violent conflicts and prejudices to become explorers and peacekeepers of the galaxy. It was a personal inspiration of how I wanted to be in real life, and a good diversion from the conflicts of that period. But I always wondered if humanity had to go through devastating hardships, as Roddenberry had envisionned, to become its better self.
 
 Climate change is a personal topic that I hold dearly in my heart, and I try my best to help explain to people about the real and dire need to save Mother Earth, for the sake of the whole world and all of us. For this occasion, I hope you allow me to expand my message from my usual personal conversations, as we still have time to change course.  
 
@@ -15,7 +15,7 @@ António Guterres, the UN Secretary General, called our current situation "[clim
 
 IPCC is under the leadership by [James Skea](https://en.wikipedia.org/wiki/James_Skea), Professor of Sustainable Energy at Imperial College London, a Fellow of the [Energy Institute](https://en.wikipedia.org/wiki/Energy_Institute) and an Officer of the [Order of the British Empire](https://en.wikipedia.org/wiki/Order_of_the_British_Empire), among many other accomplishments. He’s surrounded by some of the most brilliant minds of our generation.   
 
-Their findings are stark ((page 16)[https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf]). At 1.5°C (2.7°F) of global warming – the threshold established by the 2016 Paris Agreement – thousands of species face extinction. Beyond this point, we accept escalating heat-humidity conditions throughout the globe, a devastating impact on food production, and the decimation of global fish populations. The report's 18th page delivers an even more sobering statement: sea level rise is now inevitable for centuries to millennia due to deep ocean warming. This consensus is shared by the world’s largest environmental science agency in the world, the [National Oceanic and Atmospheric Administration](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration), or NOAA.    
+Their findings are stark ((page 16))[https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf]. At 1.5°C (2.7°F) of global warming – the threshold established by the 2016 Paris Agreement – thousands of species face extinction. Beyond this point, we accept escalating heat-humidity conditions throughout the globe, a devastating impact on food production, and the decimation of global fish populations. The report's 18th page delivers an even more sobering statement: sea level rise is now inevitable for centuries to millennia due to deep ocean warming. This consensus is shared by the world’s largest environmental science agency in the world, the [National Oceanic and Atmospheric Administration](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration), or NOAA.    
 
 Here’s the problem. We’re [past this point](https://www.nature.com/articles/d41586-025-00010-9). The Paris Agreement is active but deprecated. The challenge is bigger, thus requires a bigger change. This has stopped being a mitigation challenge and has now become an adaptation and survival one. There is a need for a deep, rapid, and sustained action against the dark tide, a deep need to take the risk seriously and deal with it accordingly, across governments and across people.  
 
@@ -29,6 +29,10 @@ So, what can one do about this? Anything. Any large or small act of defiance aga
 
 If you have the voice or the influence to do more, I implore you to do so, for the sake of the people whom we hold nearest to our hearts.   
 
-For more ideas: [9 things you can do about climate change](https://www.imperial.ac.uk/stories/climate-action/)  
+For more ideas: [9 things you can do about climate change](https://www.imperial.ac.uk/stories/climate-action/)    
+
+For more information on what's happening, I recommend [this keynote by Stefan Rahmstorf](https://www.youtube.com/watch?v=ZHNNW8c_FaA), Professor of Physics at the University of Potsdam and an Oceanographer and Climatologist.
+
+
 
 V
